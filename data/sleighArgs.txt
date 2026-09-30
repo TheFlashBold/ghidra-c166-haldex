@@ -1,0 +1,4 @@
+# Kept for future rebuild work. The current .sla is shipped precompiled.
+-t
+-u
+-n

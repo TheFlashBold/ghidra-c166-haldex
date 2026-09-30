@@ -1,0 +1,7 @@
+# SLEIGH source wrapper for the Haldex C166 language.
+# The shipped c166_haldex.sla is copied from the existing C166 module because
+# that module's current source does not rebuild cleanly with Ghidra 12.1.2.
+
+@define ENDIAN "little"
+
+@include "c166_haldex.sinc"

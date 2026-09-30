@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language_definitions>
+  <language processor="Infineon C166 Haldex"
+            endian="little"
+            size="16"
+            variant="Haldex"
+            version="1.1"
+            slafile="c166_haldex.sla"
+            processorspec="c166_haldex.pspec"
+            manualindexfile="../manuals/C166.idx"
+            id="C166HALDEX:LE:16:default">
+    <description>Infineon C166/XC166 Haldex Gen 5</description>
+    <compiler name="Tasking VX-C166" spec="c166_haldex.cspec" id="tasking"/>
+  </language>
+</language_definitions>
